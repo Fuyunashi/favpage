@@ -1,0 +1,80 @@
+body{
+  color: rgb(100, 100, 100);
+}
+#PCselect{
+  margin-top: 20px;
+  margin: 20px;
+  background-color: rgba(242,237,230,0);
+}
+.textCenter{
+  text-align: center;
+
+}
+.mainTitle{
+  color:rgb(100, 100, 100);
+  text-align: center;
+}
+.selectpanel {
+  background-color: rgba(200,200,200,0.5);
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.pageSelect{
+  font-size: 150%;
+}
+.pageSelect a{
+  /*color: rgb(0, 0, 0);*/
+  padding-right: 20px;
+  margin-left: 20px;
+}
+.pageSelectLine{
+  display: inline;
+}
+.sideline{
+  border-right: 1px solid rgba(255, 255, 255,0.8);
+}
+.padding10{
+  padding: 10px;
+}
+.margin10{
+  margin: 10px;
+}
+.textFloor{
+  border-top: 1px solid rgba(150, 150, 150,0.5);
+  border-bottom: 1px solid rgba(150, 150, 150,0.5);
+}
+.topline{
+  border-top: 1px solid rgba(150, 150, 150,0.5);
+}
+.bottomline{
+  border-bottom: 1px solid rgba(150, 150, 150,0.5);
+}
+.breakText{
+  word-wrap: break-word;
+}
+
+li{
+  list-style: none;
+}
+.maxwidth100{
+  max-width: 100%;
+}
+.maxwidth80{
+  max-width: 80%;
+}
+.floatR{
+  float: right;
+}
+.width100{
+  width: 100%;
+}
+
+.targetCenter{
+  margin: 0 auto;
+}
+.container-fluid{
+  max-width:1024px;
+}
